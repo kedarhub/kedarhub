@@ -13,7 +13,7 @@ I’m Kedar, and I am passionate about developing applications that solve real-w
 </a>
 
 <a href="https://github.com/kedarhub/Chat-App">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kedarhub&FLASK_TODO_APP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kedarhub&repo=FLASK_TODO_APP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
